@@ -1,16 +1,16 @@
 Data Story
 
-Various data sources were utilised to validate the proposed Virtial Power Plant (VPP) technology to be implemented within a remote Northern Territory community.
+Various data sources were utilised to validate the proposed Virtual Power Plant (VPP) technology to be implemented within a remote Northern Territory community.
 
-Identifying the communities which would be serviced via the Indigenous Essential Services (IES) was the first step. The Displacing Disesel project overview indicated that these remote communities are classified as Remote Australia or Very Remote Australia, by the Australian Bureau of Statistics (ABS). This information served as our as our starting point.
+Identifying the communities which would be serviced via the Indigenous Essential Services (IES) was the first step. The Displacing Diesel project overview indicated that these remote communities are classified as Remote Australia or Very Remote Australia, by the Australian Bureau of Statistics (ABS). This information served as our as our starting point.
 
-The [ABS Data Explorer][1] as a great start to identify communities which were classified as Remote Australia or Very Remote Australia by the ABS Statistical Geography Standard (ASGS) Remoteness Standard. Majority of the communities were identified, however not all could be, so were sourced from other sources from the internet to fill in the data gaps. The [ABS Data Explorer][1] was also utilised to estimate the appproximate population of each one of these communities.
+The [ABS Data Explorer][1] as a great start to identify communities which were classified as Remote Australia or Very Remote Australia by the ABS Statistical Geography Standard (ASGS) Remoteness Standard. Majority of the communities were identified, however not all could be, so were sourced from other sources from the internet to fill in the data gaps. The [ABS Data Explorer][1] was also utilised to estimate the approximate population of each one of these communities.
 
 The [ABS Community Profiles dataset][2] was extremely valuable to quickly establish a typical profile for a household that would reside in each one of the identified Northern Territory remote communities. This profile was required to help estimate the energy usage and peak demand requirements for a typical household, within the community. Many of these communities fell within the 0852, 0862 and 0872 postcodes; which made profiling the households within these communities relatively straightforward. 
 
-With a typical residential dwelling profiled, it was time to estimate the number of dwellings which resided in each one of these communities. This in-turn, would help estimate the number of potential Distrubuted Energy Resources (DER) that could be availble to participate in the Virtual Power Plant (VPP) project.
+With a typical residential dwelling profiled, it was time to estimate the number of dwellings which resided in each one of these communities. This in-turn, would help estimate the number of potential Distributed Energy Resources (DER) that could be available to participate in the Virtual Power Plant (VPP) project.
 
-Solar irradiance levels and rainfall data was sourced from the [Bureau of Meteorology (BOM)][3] to confirm adequate levels of potential to validate the use of small-scale solar photovoltatic (Solar PV) generators; 
+Solar irradiance levels and rainfall data was sourced from the [Bureau of Meteorology (BOM)][3] to confirm adequate levels of potential to validate the use of small-scale solar photovoltaic (Solar PV) generators; 
 
 
 The 
