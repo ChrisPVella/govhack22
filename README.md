@@ -1,4 +1,4 @@
-# NTech - GovHack 2022
+# Sugarcity.io - GovHack 2022
 
 
 | Project  | Details  |
@@ -8,15 +8,45 @@
 |  Hackerspace |  https://hackerspace.govhack.org/projects/ntech |
 |  Website |  http://ntech.sugarcity.io |
 |  Video | https://youtu.be/C6vaTo3gns8  |
-|  Presentation |   |
+|  Presentation |  [CleanUtilities PowerPoint](docs/presentation.pptx) |
 |  Work Evidence | https://github.com/sugarcity-io/govhack22  |
 |  Members | Chris Vella, Dennis Murphy, Todd Turner, Aiden Payne, Nathan Payne |
+|  Tags | #reduce #replace #remove #replace diesel #vpp #renewables #green energy #data driven |
 
 ## Project Description
 
-NTech
+### NTech - Clean Utilities for the Northern Territory
 
+*Clean Utilities by NTech is a GovHack 2022 project for the Sugarcity.io team from Mackay, QLD.*
+
+Clean Utilities™ by NTech is a Software-as-a-Service (SaaS) platform utilising data from Internet of Things (IoT) devices to integrate a Virtual Power Plant (VPP) system. Our smart solution unifies and connects scalable, renewable energy generation solutions, such as solar and wind, coupled with large-scale power production (diesel generators, grid power). By interconnecting small house and business based clean gneration and battery storage into a VPP network, Clean Utilities effectively displaces the need for inconvenient and costly fossil fuels.
+
+Imagine having solar and battery storage on each individual house and networking these in a local grid that intelligently reports all information to a cloud platform. This is our Virtual Power Plant (VPP) solution, Clean Utilities. A VPP aggregates and manages distributed energy resources (DER's) allowing thousands of these DER's to be combined into a single entity; including solar PV, storage technology, next generation fuel sources, and loads. Even in isolated situations, such as floods where existing diesel deliveries cannot be made, our platform allows for ongoing power generation, storage, and usage.
+
+Clean Utilities, our modern web application, connects to a range of IoT sensors, including:
+- Power Monitoring
+- Battery Monitoring
+- Weather Monitoring
+- Fuel Reserve Monitoring
+- Solar Monitoring
+- Sky Cameras
+- And many more
+
+The platform provides key insights, device and VPP monitoring, predictive analytics, health and heartbeat status of devices and nodes, and much more across a single pane of glass. Utilising advances in network communications, all of these IoT sensors can communicate back to the central cloud platform using Starlink and Sky Muster satellites, LTE-M, and NB-IoT, to allow for connectivity even from the most remote and disconnected locations in Australia.
+
+Virtual Power Plants, due to being distributed in nature, diverse in energy source and operating via realtime data and analytics, do away with the need to curtail the output of renewable energy sources; ensuring maximum Renewable Energy Factors are achieved at all times. The diverse nature of VPP energy sources also ensures renewable energy is always present, even when the sun isn't shining. While the concept of a VPP is not new, the introduction of our new technologies in IoT sensors and network communications, along with advanced software solutions, has dramatically altered the viability of displacing diesel in remote areas and shifting to clean energy in all communities. 
+
+#### Clean Utilities Sign In
+![CleanUtilities Sign In](images/signin.png)
+
+#### Clean Utilities Dashboard
 ![CleanUtilities Dashboard](images/dashboard.png)
+
+#### Clean Utilities Summary
+![CleanUtilities Summary](images/summary.png)
+
+#### NTech Website
+![NTech Website](images/ntech.jpg)
 
 ## Data Story
 
